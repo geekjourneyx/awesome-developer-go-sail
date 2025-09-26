@@ -1,0 +1,19 @@
+# OS / Editor
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+
+# Node / tooling (如使用)
+node_modules/
+dist/
+build/
+
+# Env
+.env
+.env.*
+
+# Local-only guides
+AGENTS.md
+*_hk.md
+intro.md
