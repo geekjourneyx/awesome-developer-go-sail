@@ -10,9 +10,14 @@
 </p>
 
 ## 📚 内容概览
-- 第一章：香港银行账户办理指南 → `docs/01-hk-bank-account/README.md`
-- 第二章：全球支付网关配置 → `docs/02-payments/README.md`
-- 贡献指南 → `CONTRIBUTING.md`
+- 第一章：香港银行账户办理指南 → [docs/01-hk-bank-account/README.md](docs/01-hk-bank-account/README.md)
+  - [HSBC 指南](docs/01-hk-bank-account/hsbc-guide.md)
+  - [BOCHK 渣打/ZA/蚂蚁/众安/工银亚洲/恒生等](docs/01-hk-bank-account/README.md)
+  - [开户路径对比](docs/01-hk-bank-account/comparison.md)
+- 第二章：全球支付网关配置 → [docs/02-payments/README.md](docs/02-payments/README.md)
+  - [Stripe 配置](docs/02-payments/stripe.md)
+  - [Wise 收款](docs/02-payments/wise.md)
+- 贡献指南 → [CONTRIBUTING.md](CONTRIBUTING.md) | 协作规范 → [AGENTS.md](AGENTS.md)
 
 ## ✨ 亮点
 - 实操为先：基于真实踩坑经验沉淀高通过率流程。
@@ -21,37 +26,35 @@
 - 可拓展性：章节化结构，便于社区持续补充与修订。
 
 ## 🚀 快速开始
-1. 阅读第一章，按需选择开户路径（线上/线下/VTM/见证）。
+1. 阅读第一章：[选择开户路径](docs/01-hk-bank-account/README.md)（线上/线下/VTM/见证）。
 2. 准备材料：身份证、港澳通行证、入境记录 PDF、可收件地址、稳定网络等。
-3. 完成开户后，进入第二章配置 Stripe 等收款工具。
-4. 提交前参考 `CONTRIBUTING.md` 检查格式与规范。
+3. 完成开户后，前往第二章：[配置 Stripe/Wise](docs/02-payments/README.md)。
+4. 提交前参考：[CONTRIBUTING.md](CONTRIBUTING.md) 与 [AGENTS.md](AGENTS.md)。
 
 ## 🗂️ 目录结构
-```
-.
-├── docs/
-│   ├── 01-hk-bank-account/
-│   │   ├── README.md
-│   │   ├── hsbc-guide.md
-│   │   ├── bochk-guide.md
-│   │   ├── za-bank-guide.md
-│   │   ├── ant-bank-guide.md
-│   │   ├── airstar-guide.md
-│   │   ├── icbc-asia-guide.md
-│   │   ├── scb-guide.md
-│   │   └── comparison.md
-│   └── 02-payments/
-│       ├── README.md
-│       ├── stripe.md
-│       └── wise.md
-├── CONTRIBUTING.md
-├── LICENSE
-└── README.md
-```
+- docs/
+  - 01-hk-bank-account/
+    - [README.md](docs/01-hk-bank-account/README.md)
+    - [hsbc-guide.md](docs/01-hk-bank-account/hsbc-guide.md)
+    - [bochk-guide.md](docs/01-hk-bank-account/bochk-guide.md)
+    - [za-bank-guide.md](docs/01-hk-bank-account/za-bank-guide.md)
+    - [ant-bank-guide.md](docs/01-hk-bank-account/ant-bank-guide.md)
+    - [airstar-guide.md](docs/01-hk-bank-account/airstar-guide.md)
+    - [icbc-asia-guide.md](docs/01-hk-bank-account/icbc-asia-guide.md)
+    - [scb-guide.md](docs/01-hk-bank-account/scb-guide.md)
+    - [comparison.md](docs/01-hk-bank-account/comparison.md)
+  - 02-payments/
+    - [README.md](docs/02-payments/README.md)
+    - [stripe.md](docs/02-payments/stripe.md)
+    - [wise.md](docs/02-payments/wise.md)
+- 根目录：
+  - [CONTRIBUTING.md](CONTRIBUTING.md)
+  - [AGENTS.md](AGENTS.md)
+  - [LICENSE](LICENSE)
 
 ## 🤝 参与贡献
-- 先阅读 `CONTRIBUTING.md`，遵循约定的结构与风格。
-- PR 请说明「动机/变更点/截图（如有）」；一次 PR 聚焦一个主题。
+- 阅读并遵循：[CONTRIBUTING.md](CONTRIBUTING.md) 与 [AGENTS.md](AGENTS.md)。
+- PR 请说明「动机 / 变更点 / 截图（如有）」；一次 PR 聚焦一个主题。
 
 ## 📄 许可协议
 本项目采用 MIT 许可证，详见 `LICENSE`。
@@ -61,7 +64,7 @@
 - 任何办理、开户、收款流程均需遵守所在地及目的地法律法规，请谨慎合规操作。
 - 请勿提交、留存或截图包含个人隐私与敏感信息的材料。
 
-## 🌱 关联项目
+## 🌱 其它项目
 - 编程之道（The Way of Code）：永恒的氛围编程艺术 | The Timeless Art of Vibe Coding（基于老子《道德经》，由 Rick Rubin 改编）  
   https://github.com/geekjourneyx/thewayofcode
 
@@ -75,5 +78,4 @@
 
 <p>
   <img src="./docs/assets/qrcode.jpg" alt="公众号：极客杰尼" width="180" />
-  
 </p>
