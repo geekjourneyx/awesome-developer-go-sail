@@ -31,6 +31,26 @@
 3. 完成开户后，前往第二章：[配置 Stripe/Wise](docs/02-payments/README.md)。
 4. 提交前参考：[CONTRIBUTING.md](CONTRIBUTING.md) 与 [AGENTS.md](AGENTS.md)。
 
+## 🔗 一键直达（常用小节）
+- 香港银行
+  - HSBC：
+    - [账户类型](docs/01-hk-bank-account/hsbc-guide.md#hsbc-types)
+    - [线上开户（HSBC One）](docs/01-hk-bank-account/hsbc-guide.md#hsbc-online)
+    - [地址填写（字符限制与示例）](docs/01-hk-bank-account/hsbc-guide.md#hsbc-address)
+  - [工银亚洲（VTM）](docs/01-hk-bank-account/icbc-asia-guide.md)
+  - [中银香港 BOCHK](docs/01-hk-bank-account/bochk-guide.md)
+  - [渣打香港 SCB](docs/01-hk-bank-account/scb-guide.md)
+  - [众安银行 ZA Bank](docs/01-hk-bank-account/za-bank-guide.md)
+  - [蚂蚁银行 Ant Bank](docs/01-hk-bank-account/ant-bank-guide.md)
+  - [天星银行 Airstar](docs/01-hk-bank-account/airstar-guide.md)
+- 支付与收款
+  - Stripe：
+    - [开户前准备](docs/02-payments/stripe.md#stripe-prep)
+    - [注册流程](docs/02-payments/stripe.md#stripe-register)
+    - [出金与资金路径](docs/02-payments/stripe.md#stripe-payouts)
+    - [常见问题 FAQ](docs/02-payments/stripe.md#stripe-faq)
+  - [Wise 收款](docs/02-payments/wise.md)
+
 ## 🗂️ 目录结构
 - docs/
   - 01-hk-bank-account/
