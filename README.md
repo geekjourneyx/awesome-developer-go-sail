@@ -17,7 +17,7 @@
 - 第二章：全球支付网关配置 → [docs/02-payments/README.md](docs/02-payments/README.md)
   - [Stripe 配置](docs/02-payments/stripe.md)
   - [Wise 收款](docs/02-payments/wise.md)
-- 贡献指南 → [CONTRIBUTING.md](CONTRIBUTING.md) | 协作规范 → [AGENTS.md](AGENTS.md)
+- 贡献指南 → [CONTRIBUTING.md](CONTRIBUTING.md)
 
 ## ✨ 亮点
 - 实操为先：基于真实踩坑经验沉淀高通过率流程。
@@ -29,7 +29,7 @@
 1. 阅读第一章：[选择开户路径](docs/01-hk-bank-account/README.md)（线上/线下/VTM/见证）。
 2. 准备材料：身份证、港澳通行证、入境记录 PDF、可收件地址、稳定网络等。
 3. 完成开户后，前往第二章：[配置 Stripe/Wise](docs/02-payments/README.md)。
-4. 提交前参考：[CONTRIBUTING.md](CONTRIBUTING.md) 与 [AGENTS.md](AGENTS.md)。
+4. 提交前参考：[CONTRIBUTING.md](CONTRIBUTING.md)。
 
 ## 🔗 一键直达（常用小节）
 - 香港银行
@@ -69,11 +69,10 @@
     - [wise.md](docs/02-payments/wise.md)
 - 根目录：
   - [CONTRIBUTING.md](CONTRIBUTING.md)
-  - [AGENTS.md](AGENTS.md)
   - [LICENSE](LICENSE)
 
 ## 🤝 参与贡献
-- 阅读并遵循：[CONTRIBUTING.md](CONTRIBUTING.md) 与 [AGENTS.md](AGENTS.md)。
+- 阅读并遵循：[CONTRIBUTING.md](CONTRIBUTING.md)。
 - PR 请说明「动机 / 变更点 / 截图（如有）」；一次 PR 聚焦一个主题。
 
 ## 📄 许可协议
