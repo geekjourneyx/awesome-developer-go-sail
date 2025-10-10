@@ -43,5 +43,6 @@
 - 新加坡华侨银行 (OCBC) → `./ocbc-guide.md`
 - 渣打香港 (SCB HK) → `./scb-guide.md`
 - 各银行优劣势对比 → `./comparison.md`
+- 香港银行卡维护与后续操作 → `./hk-bank-maintenance-guide.md`
 
 注：各行政策与门槛可能随时调整，请以官方最新要求为准。

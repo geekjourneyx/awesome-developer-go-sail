@@ -44,6 +44,7 @@
   - [众安银行资金转入与实体卡申请](docs/01-hk-bank-account/za-bank-funding-guide.md)
   - [蚂蚁银行 Ant Bank](docs/01-hk-bank-account/ant-bank-guide.md)
   - [天星银行 Airstar](docs/01-hk-bank-account/airstar-guide.md)
+  - [香港银行卡维护与后续操作](docs/01-hk-bank-account/hk-bank-maintenance-guide.md)
 - 支付与收款
   - Stripe：
     - [开户前准备](docs/02-payments/stripe.md#stripe-prep)
@@ -59,11 +60,13 @@
     - [hsbc-guide.md](docs/01-hk-bank-account/hsbc-guide.md)
     - [bochk-guide.md](docs/01-hk-bank-account/bochk-guide.md)
     - [za-bank-guide.md](docs/01-hk-bank-account/za-bank-guide.md)
+    - [za-bank-funding-guide.md](docs/01-hk-bank-account/za-bank-funding-guide.md)
     - [ant-bank-guide.md](docs/01-hk-bank-account/ant-bank-guide.md)
     - [airstar-guide.md](docs/01-hk-bank-account/airstar-guide.md)
     - [icbc-asia-guide.md](docs/01-hk-bank-account/icbc-asia-guide.md)
     - [scb-guide.md](docs/01-hk-bank-account/scb-guide.md)
     - [comparison.md](docs/01-hk-bank-account/comparison.md)
+    - [hk-bank-maintenance-guide.md](docs/01-hk-bank-account/hk-bank-maintenance-guide.md)
   - 02-payments/
     - [README.md](docs/02-payments/README.md)
     - [stripe.md](docs/02-payments/stripe.md)
