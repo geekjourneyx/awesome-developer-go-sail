@@ -67,8 +67,8 @@ Tips：
 - 专有名词用标准拼音；类型词汇用常见缩写：Dist、Rd、St/Ave、Ln、XQ、Bl/Bldg、Unit、F、Rm、No. 等。
 
 示例（与上例中文对应）：
-- Address Line 1: Changping Yuxinzhuang Rd
-- Address Line 2: LiXin XQ, Bl A, Rm 618
+- Address Line 1: HuangPu Dist, Nanjing Xi Rd
+- Address Line 2: Ln 1234, Heng Long Plz, 56-708
 
 提示：若英文第1行超过 26 字符，优先去掉“Dist”等冗余标记但保留“区名 + 路名”的核心信息；第2行可用数字合并（如“18号楼5单元602室”→ `Bl 18-5, Rm 602` 或 `Bl 18-5-602`）。
 
