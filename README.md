@@ -41,6 +41,7 @@
   - [中银香港 BOCHK](docs/01-hk-bank-account/bochk-guide.md)
   - [渣打香港 SCB](docs/01-hk-bank-account/scb-guide.md)
   - [众安银行 ZA Bank](docs/01-hk-bank-account/za-bank-guide.md)
+  - [众安银行资金转入与实体卡申请](docs/01-hk-bank-account/za-bank-funding-guide.md)
   - [蚂蚁银行 Ant Bank](docs/01-hk-bank-account/ant-bank-guide.md)
   - [天星银行 Airstar](docs/01-hk-bank-account/airstar-guide.md)
 - 支付与收款

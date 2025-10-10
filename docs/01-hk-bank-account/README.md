@@ -36,6 +36,7 @@
 - 香港汇丰银行 (HSBC HK) → `./hsbc-guide.md`
 - 中银香港 (BOCHK) → `./bochk-guide.md`
 - 众安银行 (ZA Bank) → `./za-bank-guide.md`
+- 众安银行资金转入与实体卡申请 → `./za-bank-funding-guide.md`
 - 蚂蚁银行 (Ant Bank) → `./ant-bank-guide.md`
 - 天星银行 (Airstar Bank) → `./airstar-guide.md`
 - 工银亚洲 (ICBC Asia) → `./icbc-asia-guide.md`
