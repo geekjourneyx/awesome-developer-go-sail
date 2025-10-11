@@ -91,6 +91,14 @@
 - 编程之道（The Way of Code）：永恒的氛围编程艺术 | The Timeless Art of Vibe Coding（基于老子《道德经》，由 Rick Rubin 改编）  
   https://github.com/geekjourneyx/thewayofcode
 
+## 💰 打赏 Buy Me A Coffee
+
+如果该项目帮助了您，请作者喝杯咖啡吧 ☕️
+
+### WeChat
+
+<img src="docs/assets/wechat-reward-code.jpg" alt="微信打赏码" width="200" />
+
 ## 🧑‍💻 作者
 - 作者：`geekjourneyx`
 - 博客：https://www.geeki.cc
