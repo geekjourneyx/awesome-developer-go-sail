@@ -1,8 +1,18 @@
-# Developer Go‑Sail Handbook
+<p align="center">
+  <a href="https://www.gosail.dev/">
+    <img src="docs/assets/logo.png" alt="GoSail Logo" width="120" />
+  </a>
+</p>
 
-面向中文开发者的「扬帆出海」实战手册：聚焦银行账户办理、全球收款与合规落地，提供经验证的路径与避坑建议。
+<h1 align="center">Developer Go‑Sail Handbook</h1>
 
-<p>
+<p align="center">
+  <a href="https://www.gosail.dev/">https://www.gosail.dev/</a>
+</p>
+
+<p align="center">面向中文开发者的「扬帆出海」实战指南：聚焦银行账户办理、全球收款与合规落地，提供经验证的路径与避坑建议。</p>
+
+<p align="center">
   <a href="https://github.com/geekjourneyx/awesome-developer-go-sail/stargazers"><img alt="GitHub Stars" src="https://img.shields.io/github/stars/geekjourneyx/awesome-developer-go-sail?style=flat-square"></a>
   <a href="https://github.com/geekjourneyx/awesome-developer-go-sail/forks"><img alt="GitHub Forks" src="https://img.shields.io/github/forks/geekjourneyx/awesome-developer-go-sail?style=flat-square"></a>
   <a href="https://github.com/geekjourneyx/awesome-developer-go-sail/issues"><img alt="GitHub Issues" src="https://img.shields.io/github/issues/geekjourneyx/awesome-developer-go-sail?style=flat-square"></a>
