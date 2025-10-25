@@ -97,9 +97,6 @@
 - 任何办理、开户、收款流程均需遵守所在地及目的地法律法规，请谨慎合规操作。
 - 请勿提交、留存或截图包含个人隐私与敏感信息的材料。
 
-## 🌱 其它项目
-- 编程之道（The Way of Code）：永恒的氛围编程艺术 | The Timeless Art of Vibe Coding（基于老子《道德经》，由 Rick Rubin 改编）  
-  https://github.com/geekjourneyx/thewayofcode
 
 ## 💰 打赏 Buy Me A Coffee
 
@@ -111,7 +108,6 @@
 
 ## 🧑‍💻 作者
 - 作者：`geekjourneyx`
-- 博客：https://www.geeki.cc
 - X（Twitter）：https://x.com/seekjourney
 - 公众号：极客杰尼
 
