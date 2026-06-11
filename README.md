@@ -27,6 +27,8 @@
 - 第二章：全球支付网关配置 → [docs/02-payments/README.md](docs/02-payments/README.md)
   - [Stripe 配置](docs/02-payments/stripe.md)
   - [Wise 收款](docs/02-payments/wise.md)
+- 第三章：美国实体注册指南 → [docs/03-us-entity/README.md](docs/03-us-entity/README.md)
+  - [怀俄明州 LLC 注册（非美国居民）](docs/03-us-entity/wyoming-llc.md)
 - 贡献指南 → [CONTRIBUTING.md](CONTRIBUTING.md)
 
 ## ✨ 亮点
