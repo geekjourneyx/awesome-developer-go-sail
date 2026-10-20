@@ -46,3 +46,8 @@
 - 香港银行卡维护与后续操作 → `./hk-bank-maintenance-guide.md`
 
 注：各行政策与门槛可能随时调整，请以官方最新要求为准。
+
+## 延伸阅读
+
+- [香港公司对公账户开户指南（含被拒常见原因）](https://chinaabroadguide.com/hong-kong-business-bank-account-guide/) · China Abroad Guide
+- [香港公司银行开户被拒的常见原因](https://chinaabroadguide.com/hong-kong-company-bank-account-rejection-reasons/) · China Abroad Guide
