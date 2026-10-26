@@ -116,3 +116,4 @@
 <p>
   <img src="./docs/assets/qrcode.jpg" alt="公众号：极客杰尼" width="180" />
 </p>
+- [Ideoy](https://ideoy.ai) - Remake this week's meme videos with one selfie (AI image-to-video, freemium, adults only).
